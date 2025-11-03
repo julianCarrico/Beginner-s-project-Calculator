@@ -36,8 +36,8 @@ for (let i = 0; i < buttonValues.length; i++) {
     if (rightSymbols.includes(value)) {
         button.style.backgroundColor = '#FF9500'
     } else if (topSymbols.includes(value)) {
-        button.style.backgroundColor = 'D4D4D2'
-        button.style.color = '1C1C1C'
+        button.style.backgroundColor = '#D4D4D2'
+        button.style.color = '#1C1C1C'
     }
 
     //process button clicks
